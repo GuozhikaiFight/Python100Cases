@@ -1,2 +1,1 @@
-# Python 1000 实例
-# Python 小白
+# Python 100 实例
